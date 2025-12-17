@@ -1,4 +1,4 @@
-# LRMC DEEPLANV3+
+# LRMC-DeepLabV3+
 Multiclass Leaf Disease Semantic Segmentation Based on an Improved DeepLabV3+ Network. The proposed model depicted an outstanding accuracy of 97.34% alongside an MIoU of 93.47%.
 Published as my ungrad final thesis.
 
